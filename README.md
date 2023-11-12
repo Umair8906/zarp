@@ -35,7 +35,7 @@ pip install -r requirements.txt
 You can then run:
 
 ```
-sudo python zarp.py --update
+sudo python3 zarp.py --update
 ```
 
 to update zarp.  The update flag will not work if you download the tarball from the Git page.
